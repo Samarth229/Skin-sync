@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "144403502567",
+    "project_id": "skin-sync-a0b45",
+    "storage_bucket": "skin-sync-a0b45.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144403502567:android:058749379bc943d9aad942",
+        "android_client_info": {
+          "package_name": "com.example.test_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzWtrIRGoWEfuSGj-2H_O8YL6TKlCABhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
